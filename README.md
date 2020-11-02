@@ -36,5 +36,7 @@ link= yourwebsitedomain.com
 # Partners:
 ## Infinite Customs
 > infinite customs [website](https://infinitecustosm.dev): https://infinitecustoms.dev/
+>
 > Infinite Customs [Discord Invite Link](https://infinitecustoms.dev/discord/): https://infinitecustoms.dev/discord
+>
 > Infinite Customs GTA5 Vehicle Modle Shop: https://infinitecustoms.dev/shop/
