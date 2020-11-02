@@ -21,7 +21,11 @@ link= yourwebsitedomain.com
 ```
 
 # Have a question? 
->>> If any questions arise feel free to contact me on discord 
-[My Discord](https://discord.gg/KVTZdZw)
-[My Website](https://hunterswebdesigns.tk)
-[Email me](mailto:cadmdtdev@gmail.com?subject=Github%20Question%20For%20MultiBotV2.0.4)
+> If any questions arise feel free to contact me on discord 
+#
+[My Discord](https://discord.gg/KVTZdZw):  https://discord.gg/KVTZdZw
+
+
+[My Website](https://hunterswebdesigns.tk): https://hunterswebdesings.tk
+
+[Email me](mailto:cadmdtdev@gmail.com?subject=Github%20Question%20For%20MultiBotV2.0.4): https://mailto:cadmdtdev@gmail.com?subject=Github%20Question%20For%20MultiBot%20V2.0.4
