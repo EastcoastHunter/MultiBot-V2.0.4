@@ -24,4 +24,4 @@ link= yourwebsitedomain.com
 > If any questions arise feel free to contact me on discord 
 [My Discord](https://discord.gg/KVTZdZw)
 [My Website](https://hunterswebdesigns.tk)
-[Email me](https://mailto:cadmdtdev@gmail.com)
+[Email me](mailto:cadmdtdev@gmail.com?subject[Github%20Question])
