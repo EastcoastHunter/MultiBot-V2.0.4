@@ -1,0 +1,5 @@
+/.env
+/node_modules
+/botconfig.json
+/starter.bat
+/package-lock.json
